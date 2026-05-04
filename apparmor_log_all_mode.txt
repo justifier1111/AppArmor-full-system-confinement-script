@@ -1,0 +1,11 @@
+#include <tunables/global>
+
+# Catch-all learning net complain mode only, never enforce this directly
+# Requires auditd or rsyslog for aa-logprof integration
+# Author: Me
+
+profile systemwide /** flags=(complain) {
+
+audit /** rwix,
+
+}

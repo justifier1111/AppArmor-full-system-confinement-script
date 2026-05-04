@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# aa-logprof -f /var/log/audit/audit.log
+# generates profiles from auditd
+
+# aa-logprof -f /var/log/syslog
+# generates profiles from rsyslog
+
+
+
