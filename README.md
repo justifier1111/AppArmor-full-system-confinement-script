@@ -3,8 +3,8 @@ Uses AppArmor capture all permissions to automatically build a full system confi
 
 Haven't tested unlikely to work without changes
 
-# fix
+fix
 
-# use with Ubuntu's allow listing system 
+use with Ubuntu's allow listing system 
 
-# tune 
+tune 
